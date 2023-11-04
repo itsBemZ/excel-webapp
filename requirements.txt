@@ -1,0 +1,5 @@
+openpyxl
+plotly
+pandas
+streamlit
+Pillow
